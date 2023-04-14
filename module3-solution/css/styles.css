@@ -4,11 +4,9 @@ h1.text-center{
 }
 .columns{
   margin: .3vw;
+  margin-top: 20px;
   padding: 5px;
     min-height: 100vh;
     background-color: rgb(216, 216, 216);
 }
 
-@media (min-width: 992px) {
-
-}
